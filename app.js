@@ -57,6 +57,7 @@ app.all('*', function(req, res, next) {
 
 console.log("hello word")
 console.log("nihao shijie")
+console.log("hello node")
 
 module.exports = app;
 
